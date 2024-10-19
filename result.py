@@ -316,8 +316,6 @@ C:\\Users\\arkha\\OneDrive\\Desktop\\tyoi\\test_questions.xlsx
 # Вывод текста отчета
 print(report_text)'''
 
-from secret import *
-
 
 import requests
 import uuid
