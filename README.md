@@ -19,19 +19,19 @@
 
 3. ```pip install virtualenv```
 
-   ```virtualenv envname```
+4. ```virtualenv envname```
 
-4. ```envname\scripts\activate```
+5. ```envname\scripts\activate```
 
-5. ```pip install -r requirements.txt```
+6. ```pip install -r requirements.txt```
 
-6. ```python glob_preprocessing.py```
+7. ```python glob_preprocessing.py```
 
-7. ```python glob_clusterizing.py```
+8. ```python glob_clusterizing.py```
 
-8. ```python thematic_clustering.py```
+9. ```python thematic_clustering.py```
 
-9. Для получения облака отзывов запустить файл 'result_analysis.py':
+10. Для получения облака отзывов запустить файл 'result_analysis.py':
 
     ```python result_analysis.py```
 
@@ -42,7 +42,7 @@
    
    Полученные облака отзывов находятся в папке images -- добавь картинку одну из тех что там лежит
 
-10. Для получения рекоменаций по отдельному сотруднику запустить файл 'single_person.py':
+11. Для получения рекоменаций по отдельному сотруднику запустить файл 'single_person.py':
 
     ```python single_person.py```
 
@@ -50,4 +50,4 @@
    Полученный результат находится в папке 'responces' под именем 'recommendation.txt' -- добавить скрин того как открыт оттуда 'recommendation.txt'
 
 11. Для получения report.pdf необходимо
-    - ввести в консоль 
+    - ввести в консоль ```result.py``` после чего файл "report.pdf" обновится
