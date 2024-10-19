@@ -1,13 +1,42 @@
 # Hakaton-Nuclear-IT-hack-Sirius
 
 # Как пользоваться
-1. Скачать репозиторий -- не написана команда которой скачать репозиторий
-2. Для получения облака отзывов запустить файл 'result_analysis.py':
+Открывать через консоль
+1. клонировать репозторий командой: git clone https://github.com/ArtiomNosov/Hakaton-Nuclear-IT-hack-Sirius
+2. Перейти в директорию с файлами проекта: cd Hakaton-Nuclear-IT-hack-Sirius
+3. Cоздать виртуальное окружение командами:
+
+    pip install virtualenv
+    virtualenv envname
+
+4. Активировать виртуальное окружение:
+
+    envname\scripts\activate
+
+5. Установить необходимые пакеты:
+
+    pip install -r requirements.txt
+
+6. Запустить файл glob_preprocessing.py:
+
+    python glob_preprocessing.py
+
+7. Запустить файл glob_clustering.py:
+
+    python glob_clusterizing.py
+
+8. Запустить файл thematic_clustering.py:
+
+    python thematic_clustering.py
+
+9. Для получения облака отзывов запустить файл 'result_analysis.py':
+    python result_analysis.py
     Появится консоль в которой необходимо выбрать один из трёх вариантов:
     - Для получения облака нейтральных отзывов ввести 0
     - Для получения облка позитивных отзывов ввести 1
     - Для получения облака негативных отзывов ввести 2
    
    Полученные облака отзывов находятся в папке images -- добавь картинку одну из тех что там лежит
-3. Для получения рекоменаций по отдельному сотруднику запустить файл 'single_person.py', ввести отзыв сотрудника строкой в консоль
+
+10. Для получения рекоменаций по отдельному сотруднику запустить файл 'single_person.py', ввести отзыв сотрудника строкой в консоль
    Полученный результат находится в папке 'responces' под именем 'recommendation.txt' -- добавить скрин того как открыт оттуда 'recommendation.txt'
