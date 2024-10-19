@@ -31,6 +31,8 @@ PS: развёрнутый отчёт это report.pdf ниже написан�
 
 8. ```pip install -r requirements.txt```
 
+9. ```pip install "matplotlib==3.9.0" --force-reinstall
+
 ##Получение обработанных данных
 
 9. ```python glob_preprocessing.py```
