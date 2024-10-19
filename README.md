@@ -24,7 +24,7 @@ PS: развёрнутый отчёт это report.pdf ниже написан�
 
 5. ```envname\scripts\activate```
 
-6. ```pip install numpy```
+6. ```pip install numpy==1.26.4```
 
 7. ```pip install -r requirements.txt```
 
