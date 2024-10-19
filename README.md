@@ -28,10 +28,10 @@ PS: развёрнутый отчёт это report.pdf ниже написан�
 6. ```pip install numpy==1.26.4```
 
 7. ```pip install msvc-runtime```
+   
+8. ```pip install "matplotlib==3.9.0```
 
-8. ```pip install -r requirements.txt```
-
-9. ```pip install "matplotlib==3.9.0" --force-reinstall```
+9. ```pip install -r requirements.txt --ignore-installed```
 
 ##Получение обработанных данных
 
