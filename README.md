@@ -29,7 +29,7 @@ PS: развёрнутый отчёт это report.pdf ниже написан�
 
 7. ```pip install msvc-runtime```
    
-8. ```pip install "matplotlib==3.9.0```
+8. ```pip install matplotlib==3.9.0```
 
 9. ```pip install -r requirements.txt --ignore-installed```
 
