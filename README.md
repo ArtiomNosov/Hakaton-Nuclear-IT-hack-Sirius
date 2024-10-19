@@ -1,5 +1,5 @@
 # Hakaton-Nuclear-IT-hack-Sirius
-# (Дашборд)[https://datalens.yandex/u5r6316442j6h]
+# [Дашборд](https://datalens.yandex/u5r6316442j6h)
 # Как пользоваться
 Открывать через консоль в режиме Администратора
 
