@@ -4,6 +4,7 @@
 # [Ссылка на развёрнутый отчёт](https://disk.yandex.ru/i/3mXH5qQ0W0Agcw)
 ![image](https://github.com/user-attachments/assets/19885956-abf8-43dc-8f45-e8efc972c3ba)
 PS: развёрнутый отчёт это report.pdf ниже написано как его получить
+# [Ссылка на презентацию](https://disk.yandex.ru/i/W_1JKQPiAnZ-qQ)
 # Как пользоваться
 Открывать через консоль в режиме Администратора
 
