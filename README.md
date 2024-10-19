@@ -2,6 +2,7 @@
 # [Аналитический дашборд на основе ответов сотрудников](https://datalens.yandex/u5r6316442j6h)
 ![image](https://github.com/user-attachments/assets/813efad9-d424-4915-b0a4-3e960f210947)
 # [Ссылка на развёрнутый отчёт](https://disk.yandex.ru/i/3mXH5qQ0W0Agcw)
+![image](https://github.com/user-attachments/assets/19885956-abf8-43dc-8f45-e8efc972c3ba)
 # Как пользоваться
 Открывать через консоль в режиме Администратора
 
